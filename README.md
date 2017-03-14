@@ -51,8 +51,9 @@ Boosting: Foundations and Algorithms, by R. E. Schapire and Y. Freund | 不做�
 Foundations of Machine Learning, by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar | 不做要求
 
 ## <h2 id="others">其他</h2>
-  恭喜您坚持到了现在，现在您已经拥有了扎实的数学功底，同时经过这么多的练习，也已经掌握了深度学习中的较为经典甚至一些较为前沿的技术，接下来如果您希望继续深造并成为大师并对该领域做出突破贡献，我们唯一能为您提供的就是下面的论文平台，它汇总了最经典的领域论文，领域开源包等等丰富资源，同时会不断更新最新的进展，希望对您有帮助，补充一句：**我们强烈建议您进入高校或者其他研究所进行深造，因为现在您当前的基础已经完全可以支撑您进行进一步研究，如果有好的导师引路，加之努力，将来定会成为大师，希望继续加油！**。 
+  恭喜您坚持到了现在，现在您已经拥有了扎实的机器学习理论功底，同时经过这么多的练习，也已经掌握了理论及其学习中的较为经典甚至一些较为前沿的技术，接下来如果您希望继续深造并成为大师并对该领域做出突破贡献，**我们强烈建议您进入高校或者其他研究所进行深造，因为现在您当前的基础已经完全可以支撑您进行进一步研究，如果有好的导师引路，加之努力，将来定会成为大师，希望继续加油！**。 
   
 - [一些其他的课程(都采用了Understanding Machine Learning: From Theory to Algorithms这本书)](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/courses.html)
+- 其他(希望大家补充)
 
 
