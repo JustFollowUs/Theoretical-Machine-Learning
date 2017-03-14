@@ -23,7 +23,7 @@ Hebrew的机器学习理解这门课程的视频非中英文，但是因为作�
 机器学习理论基础 | CMU | [An Introduction to Computational Learning Theory](https://mitpress.mit.edu/book-home.tcl?isbn=0262111934) |  [链接](http://www.cs.cmu.edu/~avrim/ML14/)
 理论机器学习| Princeton | 暂无 |  [链接](http://www.cs.princeton.edu/courses/archive/spring16/cos511/)
 
-##<h2 id="special_course_learning1">专项课程学习1</h2>
+## <h2 id="special_course_learning1">专项课程学习1</h2>
 
 课程 | 机构 | 参考书 | Notes等其他资料 | 辅助课程
 :-- | :--: | :--: | :--: | :--:
