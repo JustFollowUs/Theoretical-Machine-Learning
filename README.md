@@ -1,6 +1,6 @@
 # Theoretical-Machine-Learning
 
-##主要内容
+## 主要内容
    
 - [课程列表](#curriculum)
 - [专项课程学习1](#special_course_learning1)
