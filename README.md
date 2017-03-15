@@ -41,11 +41,12 @@ Hebrew的机器学习理解这门课程的视频非中英文，但是因为作�
 
 ## <h2 id="recommended_books">推荐书籍</h2>
 
-课程 | 要求
+书籍 | 要求
 :-- | :--:
 (draft) Introduction to Online Convex Optimization, by E. Hazan  | 要求
 An Introduction To Computational Learning Theory, by M.J. Kearns and U. Vazirani  | 要求
 Understanding Machine Learning: From Theory to Algorithms, by Shai Shalev-Shwartz and Shai Ben-David | 要求
+Introductory Lectures on Convex Optimization Introductory Lectures on Convex Optimization | 不做要求
 Prediction, Learning and Games, by N. Cesa-Bianchi and G. Lugosi | 不做要求
 Boosting: Foundations and Algorithms, by R. E. Schapire and Y. Freund | 不做要求
 Foundations of Machine Learning, by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar | 不做要求
