@@ -25,16 +25,16 @@ Hebrew的机器学习理解这门课程的视频非中英文，但是因为作�
 
 ## <h2 id="special_course_learning1">专项课程学习1</h2>
 
-课程 | 机构 | 参考书 | Notes等其他资料 | 辅助课程
+课程 | 机构 | 参考书 | Notes等其他资料 
 :-- | :--: | :--: | :--: | :--:
-机器学习在线方法 | MIT | 暂无 | [链接](Online Methods in Machine Learning)
+机器学习在线方法 | MIT | 暂无 | [链接](http://www.mit.edu/~rakhlin/6.883/)
 [机器学习理解](https://www.youtube.com/watch?v=ZKAhh4db_d0&feature=youtu.be) | Hebrew | [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) | [链接](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html)
 机器学习理论基础 | CMU | [An Introduction to Computational Learning Theory](https://mitpress.mit.edu/book-home.tcl?isbn=0262111934) |  [链接](http://www.cs.cmu.edu/~avrim/ML14/)
 
 
 ## <h2 id="special_course_learning2">专项课程学习2</h2>
 
-课程 | 机构 | 参考书 | Notes等其他资料 | 辅助课程
+课程 | 机构 | 参考书 | Notes等其他资料 
 :-- | :--: | :--: | :--: | :--:
 理论机器学习| Princeton | 暂无 |  [链接](http://www.cs.princeton.edu/courses/archive/spring16/cos511/)
 
